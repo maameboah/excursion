@@ -36,3 +36,6 @@ video.images {display: block;
               margin-left: auto;
               margin-right: auto;
             }
+h5{font-weight: normal;
+  color: Gray;
+  text-align: right;}
